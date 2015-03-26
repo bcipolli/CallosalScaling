@@ -4,6 +4,7 @@ datasets = { ...
     'aboitiz_thesis', ...  % age correction
     'lamantia_rakic_1990a', ... % age correction
     'lamantia_rakic_1990b', ... % age correction
+    'phillips_etal_2014', ...  % callosal mean size
     'rilling_insel_1999a', ... % GI
     'rilling_insel_1999b', ... %callosal area
     'tower_1954', ... % grey matter neuron density
